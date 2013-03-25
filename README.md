@@ -1,9 +1,9 @@
 $ mkdir ~/Color
-
+=====
 $ cd ~/Color
 
 $ git init
-
+===
 $ touch README
 
 $ git add README
