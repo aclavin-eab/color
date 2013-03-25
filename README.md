@@ -1,3 +1,7 @@
+What it does
+=====
+This is a jquery plugin to subtly manipulate the color of an object through randomization, giving it a slight flickering feel.
+
 How to use
 =====
 Use the jquery.randomcolor.cs by entering the following after your jquery library
